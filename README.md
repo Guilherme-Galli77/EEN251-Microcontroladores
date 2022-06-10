@@ -14,7 +14,7 @@ Matheus dos Santos Galbiati                             RA: 19.01324-8
 A ideia central de nosso projeto foi criar uma fechadura eletronica utilizando um sensor de RFID. Além disso, também foi idealizado um pequeno sistema baseado no acendimento de um display OLed quando um sensor de presença é acionado.
 
 [Link do vídeo do projeto em execução](https://youtu.be/qG4GmPUp0S4)
-### Video do circuito criado
+
 
 ### Imagem do circuito criado
 ![alt text](Imagens/circuito1.jpeg "Circuito")
