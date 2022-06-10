@@ -15,13 +15,16 @@ A ideia central de nosso projeto foi criar uma fechadura eletronica utilizando u
 
 [Link do vídeo do projeto em execução](https://youtu.be/qG4GmPUp0S4)
 
-### Foto do circuito criado
+### Imagem do circuito criado
 ![alt text](Imagens/circuito1.jpeg "Circuito")
 
-### Imagens da caixa externa ao circuito criada em mdf
+### Imagem da caixa externa ao circuito criada em mdf
 ![alt text](Imagens/caixa1.jpeg "Caixa")
 
+### Imagem da caixa externa ao circuito criada em mdf + sensores visiveis
 ![alt text](Imagens/caixa2.jpeg "Caixa+Sensores")
+
+## Componentes Eletrônicos
 
 Foram utilizados os seguintes componentes eletrônicos:
 
