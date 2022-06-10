@@ -2,7 +2,9 @@
 
 ## Integrantes do grupo
 Fernando Laiser F Kon                                   RA: 19.01336-0
+
 Guilherme Cury Galli                                    RA: 19.00374-9
+
 Matheus dos Santos Galbiati                             RA: 19.01324-8
 
 
